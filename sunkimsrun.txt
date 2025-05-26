@@ -1,0 +1,16 @@
+sunkimsrun@DESKTOP-58AJ2VL:~$ cat sunkimsrun.txt
+Day4
+Final-Exam
+laravel
+laravel2
+laravel3
+Lost_and_Found
+Practice-J-Query
+Practice-JavaScript
+Q-A
+RUPP-Y3-Event-Management-System-ITE-
+Sprint-Repo-2-11-2024
+sunkimsrun
+Web-Day2
+week3-wct
+week4-wct
